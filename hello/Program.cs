@@ -17,7 +17,7 @@ namespace hello
             aTimer.Enabled = true;
 
            
-            while (false) ;
+            while (true) ;
         }
 
         private static void OnTimedEvent(object source, ElapsedEventArgs e)
