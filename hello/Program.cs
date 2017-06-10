@@ -11,9 +11,9 @@ namespace hello
         static void Main(string[] args)
         {
             Console.WriteLine("hi");
-            while(Console.ReadLine() != "q")
+            for(int i= 0; i < 100; i++)
             {
-
+                Console.WriteLine("testing appharbour.com");
             }
         }
     }
